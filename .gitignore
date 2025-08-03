@@ -1,0 +1,14 @@
+# Simulation outputs
+*.out
+*.vvp
+*.vcd
+sim.out
+*.log
+
+# Editor/IDE
+.vscode/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
